@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; text-align: center; background: #f4f6fb; color: #1d2130; }
+h1 { margin-top: 30px; }
+.status { font-size: 22px; font-weight: bold; }
+.score { font-size: 18px; }
+table.board { margin: 20px auto; border-collapse: collapse; }
+table.board td { width: 90px; height: 90px; border: 3px solid #1d2130; padding: 0; }
+table.board button { width: 90px; height: 90px; border: none; background: #fff; cursor: pointer; }
+table.board button:hover { background: #e3e9fb; }
+.mark { font-size: 56px; font-weight: bold; }
+.mark.X { color: #c8480f; }
+.mark.O { color: #1a73c8; }
+a { color: #4b55c4; }
